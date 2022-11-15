@@ -1,2 +1,2 @@
 # android1_lab5
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
